@@ -1,5 +1,5 @@
 
-Hi there! 👋 I'm Pustam Rai.<br><br>I'm a passionate web developer with a strong interest in creating engaging and interactive web applications. I've completed basic learning in HTML, CSS, JavaScript, ReactJS, and TailwindCSS, and I enjoy applying these skills to build modern, responsive websites.<br><br>### 📚 Currently Learning<br>- Advanced ReactJS technique<br><br>### 📫 How to Reach Me<br>- Email: pustamrai56@gmail.com<br><br>Feel free to explore my repositories and connect with me. Let's build something amazing together!
+Hi there! 👋 I'm <b>Pustam Rai</b>.<br><br>I'm a passionate web developer with a strong interest in creating engaging and interactive web applications. I've completed basic learning in HTML, CSS, JavaScript, ReactJS, and TailwindCSS, and I enjoy applying these skills to build modern, responsive websites.<br><br>### 📚 Currently Learning<br>- Advanced ReactJS technique<br><br>### 📫 How to Reach Me<br>- Email: pustamrai56@gmail.com<br><br>Feel free to explore my repositories and connect with me. Let's build something amazing together!
 
 
 ## 🌐 Socials:
